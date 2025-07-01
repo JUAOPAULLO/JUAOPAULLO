@@ -28,7 +28,7 @@
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
+![n8n](https://img.shields.io/badge/n8n-0B5C4B?style=for-the-badge&logo=n8n&logoColor=white)
 
 #### Databases:
 
